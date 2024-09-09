@@ -24,8 +24,7 @@ const About = () => {
         className="w-full lg:w-1/2 ">
         <div className="flex justify-center lg:justify-start">
             <p className="my-2 max-w-xl py-6">
-            Hi! I'm Himasha Sandeepani, a passionate web developer with a strong focus on creating clean, efficient, and visually appealing websites. My journey into web development started with a fascination for how the web connects people and businesses, and I've since honed my skills in front-end and back-end technologies. I specialize in building responsive, user-friendly applications using modern frameworks like React, .NET, and Tailwind CSS. I thrive on challenges and love crafting solutions that not only meet but exceed client expectations. When I'm not coding, I'm always learning new techniques to stay at the cutting edge of technology.
-            </p>
+            Hi, I’m Himasha, a 3rd-year Information Technology student at the University of Moratuwa. I have a deep passion for web development, especially in technologies like React and .NET, which I've applied in various projects. I thrive on creating clean, efficient, and intuitive web applications, and I’m always eager to learn new things. Currently, I’m exploring the world of machine learning and looking forward to blending it with my web development skills to build smarter, data-driven applications.</p>
         </div>
         </motion.div>
         </div>

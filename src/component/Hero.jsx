@@ -29,14 +29,14 @@ const Hero = () => {
             initial="hidden"
             animate="visible"
              className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent">
-                Full Stack Developer
+                Undergraduate
              </motion.span>
              <motion.p 
               variants={container(1)}
               initial="hidden"
               animate="visible"
              className="my-2 max-w-xl py-6 front-light tracking-tighter">
-                I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.
+                  I am a 3rd year undergraduate at the University of Moratuwa, Faculty of Information Technology. I am a passionate web developer who loves to create web applications and websites. I am a quick learner and always ready to learn new technologies.
              </motion.p>
          </div>
         </div>

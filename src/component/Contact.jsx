@@ -14,12 +14,12 @@ function Contact() {
         whileInView={{opacity: 1, x: 0}}
         initial={{opacity: 0, x: -100}}
         transition={{duration: 1}}
-        className="my-4">No 514 A Yakkaduwa Ja-ela</motion.p>
+        className="my-4">Ja-ela Sri Lanka</motion.p>
         <motion.p 
           whileInView={{opacity: 1, x: 0}}
           initial={{opacity: 0, x: 100}}
           transition={{duration: 1}}
-        className="my-4">+94 1383 161</motion.p>
+        className="my-4">+9474 1383 161</motion.p>
         <a href="#" className="border-b">himashasandeepani111.com</a>
         </div>
       
