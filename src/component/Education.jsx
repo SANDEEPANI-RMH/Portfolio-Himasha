@@ -25,6 +25,8 @@ function Education() {
             className="w-full max-w-xl lg:w-3/4">
                 <h1 className="mb-2 font-semibold text-lg"> BSc(Hons) in Information Technology</h1>
                 <h6 className="text-lg">University of Moratuwa</h6>
+                <h7 className="text-lg">Current GPA - 3.45</h7><br></br>
+                <h7 className="text-lg">L2S4 SGPA - 3.88 |  Dean's List</h7>
             </motion.div>
            
         </div>
